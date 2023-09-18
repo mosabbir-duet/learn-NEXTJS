@@ -1,0 +1,133 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Clothing",
+      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro-max-.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Home Decor",
+      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s8-plus.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Books",
+      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s21-fe-5g.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Toys",
+      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s22-ultra-5g.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 101,
+      "name": "Smartphone",
+      "category_id": 1,
+      "price": 599.99,
+      "features": [
+        "5.5-inch OLED display",
+        "Snapdragon 888 CPU",
+        "128GB storage"
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Laptop",
+      "category_id": 1,
+      "price": 999.99,
+      "features": [
+        "15.6-inch Full HD display",
+        "Intel Core i7 CPU",
+        "16GB RAM, 512GB SSD"
+      ]
+    },
+    {
+      "id": 103,
+      "name": "T-shirt",
+      "category_id": 2,
+      "price": 19.99,
+      "features": [
+        "Cotton material",
+        "Available in various colors",
+        "Sizes: S, M, L, XL"
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Coffee Table",
+      "category_id": 3,
+      "price": 149.99,
+      "features": [
+        "Solid wood construction",
+        "Natural finish",
+        "Dimensions: 36x24x18 inches"
+      ]
+    },
+    {
+      "id": 105,
+      "name": "Book - The Great Gatsby",
+      "category_id": 4,
+      "price": 12.99,
+      "features": [
+        "Author: F. Scott Fitzgerald",
+        "Classic novel",
+        "Paperback edition"
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Action Figure - Superhero",
+      "category_id": 5,
+      "price": 9.99,
+      "features": [
+        "Superhero character",
+        "Articulated limbs",
+        "Collectible item"
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Dress - Floral Print",
+      "category_id": 2,
+      "price": 29.99,
+      "features": [
+        "Floral print design",
+        "Sizes: S, M, L",
+        "Polyester material"
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Table Lamp",
+      "category_id": 3,
+      "price": 39.99,
+      "features": ["Contemporary design", "Metal base", "Height: 18 inches"]
+    },
+    {
+      "id": 109,
+      "name": "Wireless Earbuds",
+      "category_id": 1,
+      "price": 79.99,
+      "features": [
+        "Bluetooth connectivity",
+        "Charging case included",
+        "Noise-cancellation"
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Children's Storybook",
+      "category_id": 4,
+      "price": 7.99,
+      "features": ["Illustrated storybook", "For ages 3-6", "Hardcover"]
+    }
+  ]
+}

@@ -16,7 +16,7 @@ export const generateStaticParams = async () => {
     const blogs = await loadBlogsData();
 
     return blogs.map(({id}) => ({
-        id: id.toString()
+        id: id.toString(),
     }))
 }
 
